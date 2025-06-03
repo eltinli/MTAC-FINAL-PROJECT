@@ -4,7 +4,7 @@ This document describes the contents and sources of the files in the `data/` fol
 
 ---
 
-## 📁 Files and Descriptions
+##  Files and Descriptions
 
 ### 1. `newforecast_output_2030_clean.xlsx`
 - **Description**: Forecasted barangay-level population for the year 2030.
@@ -29,7 +29,7 @@ This document describes the contents and sources of the files in the `data/` fol
 
 ---
 
-## 📌 Notes
+##  Notes
 
 - All geographic files are in EPSG:4326 unless otherwise noted.
 - Ensure all shapefile components (`.shp`, `.dbf`, `.shx`, `.prj`) are kept together.
@@ -37,7 +37,7 @@ This document describes the contents and sources of the files in the `data/` fol
 
 ---
 
-## 📚 Citation Format
+##  Citation Format
 
 If using the data or this model in a derived work, please cite:
 
